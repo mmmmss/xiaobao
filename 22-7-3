@@ -1,0 +1,10 @@
+#define _CRT_SECURE_NO_WARNINGS 1
+#include <stdio.h>
+//主函数（main函数 ）int main(){ return 0 ;}
+//c语言是从主函数的第一行开始执行的
+//所以c语言代码中得有main函数-入口
+int main()
+{
+	printf("hello world\n");
+		return 0;
+}
